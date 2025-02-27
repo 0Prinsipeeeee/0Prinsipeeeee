@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-<!--
+<p align="center">
+  <img src="https://github.com/0Prinsipeeeee/0Prinsipeeeee/blob/f415b1f92745d642c78cb53f3bed0a5291e726e9/Images/Hacker-Girl.gif">
+</p>
+
 **0Prinsipeeeee/0Prinsipeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
