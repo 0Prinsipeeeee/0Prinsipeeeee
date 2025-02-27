@@ -1,8 +1,17 @@
 ## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3500&pause=1000&width=190&lines=Welcome+Traveller;Feel+Free+To+Read+" alt="Typing SVG">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://github.com/0Prinsipeeeee/0Prinsipeeeee/blob/f415b1f92745d642c78cb53f3bed0a5291e726e9/Images/Hacker-Girl.gif">
 </p>
+
+
+
 
 **0Prinsipeeeee/0Prinsipeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +25,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
