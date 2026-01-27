@@ -11,7 +11,7 @@
 </p>
 
 
-<p align="center">
+<p align="center" width="100px" height="100px">
   <img src="https://github.com/0Prinsipeeeee/0Prinsipeeeee/blob/f415b1f92745d642c78cb53f3bed0a5291e726e9/Images/Hacker-Girl.gif">
 </p>
 
