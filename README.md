@@ -7,7 +7,7 @@
 <p align="center">
     <img 
       src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3500&color=65c56c&pause=1000&width=190&lines=Welcome+Traveller;Feel+Free+To+Read"
-      width="100%"
+      width="15%"
       alt="Banner"
     />
 </p>
@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github.com/0Prinsipeeeee/0Prinsipeeeee/blob/f415b1f92745d642c78cb53f3bed0a5291e726e9/Images/Hacker-Girl.gif"
-       style="width: 150%; height: auto;" />
+       width="100%" style="border-radius: 10px;" />
 </p>
 
 
