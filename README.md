@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="https://github.com/0Prinsipeeeee/0Prinsipeeeee/blob/f415b1f92745d642c78cb53f3bed0a5291e726e9/Images/Hacker-Girl.gif"
-       style="max-width: 100%; height: auto;" />
+       style="max-width: 150%; height: auto;" />
 </p>
 
 
