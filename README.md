@@ -5,10 +5,13 @@
 <p>🙋 About me : a guy living somewhere in asia who is trying to pursue a career in the field of Information Technology</p>
 <hr>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3500&color=65c56c&pause=1000&width=190&lines=Welcome+Traveller;Feel+Free+To+Read" alt="Typing SVG">
-  </a>
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=3500&color=65c56c&pause=1000&width=190&lines=Welcome+Traveller;Feel+Free+To+Read"
+      width="100%"
+      alt="Banner"
+    />
 </p>
+
 
 
 <p align="center">
